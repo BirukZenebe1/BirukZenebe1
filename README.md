@@ -12,3 +12,5 @@ I'm a computer science enthusiast with a strong interest in **Artificial Intelli
 - Deepen expertise in AI and large-scale models  
 - Build robust, real-world machine learning systems  
 - Continue learning and contributing to open-source projects  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aBirukZenebe1&show_icons=true&theme=radical)
