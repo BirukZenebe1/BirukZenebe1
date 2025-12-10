@@ -13,4 +13,4 @@ I'm a computer science enthusiast with a strong interest in **Artificial Intelli
 - Build robust, real-world machine learning systems  
 - Continue learning and contributing to open-source projects  
 
-![Biruk's Github stats](https://github-readme-stats.vercel.app/api?username=BirukZenebe1&show_icons=true&theme=radical)
+![Biruk's github stats](https://github-readme-stats.vercel.app/api?username=BirukZenebe1&show_icons=true&theme=nightowl)
