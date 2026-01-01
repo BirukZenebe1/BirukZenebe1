@@ -3,7 +3,7 @@
 I'm a computer science enthusiast with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Reinforcement Learning**. I enjoy building intelligent systems, experimenting with modern AI algorithms, and applying theory to practical projects.
 
 ##  Tools & Technologies
-- Python, PyTorch,Pandas TensorFlow 
+- Python, PyTorch,Pandas, Sci-kit and TensorFlow 
 - Reinforcement Learning (DQN, A3C, Policy Gradients)  
 - Hugging Face Transformers 
 - Git, GitHub, Google Colab  
