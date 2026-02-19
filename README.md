@@ -1,6 +1,6 @@
 # Hi, I'm Biruk Zenebe 👋
 
-I'm a computer science enthusiast with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Reinforcement Learning**. I enjoy building intelligent systems, experimenting with modern AI algorithms, and applying theory to practical projects.
+Computer Science graduate passionate about AI, scalable data systems, distributed processing, and building reliable data pipelines for real-world applications.
 
 ##  Tools & Technologies
 - Python, PyTorch,Pandas, Sci-kit and TensorFlow
