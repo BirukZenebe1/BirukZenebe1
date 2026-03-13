@@ -4,7 +4,7 @@ Computer Science graduate passionate about AI, scalable data systems, distribute
 
 ##  Tools & Technologies
 - Python, PyTorch,Pandas, Sci-kit and TensorFlow
-- Kafka,Spark,AWS
+- Kafka,Spark,AWS,GCP
 - Reinforcement Learning (DQN, A3C, Policy Gradients)  
 - Hugging Face Transformers 
 - Git, GitHub, Google Colab  
