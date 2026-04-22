@@ -14,14 +14,7 @@ Aspiring AI/ML engineer building production-ready systems across ML APIs, stream
 - I like taking models beyond experimentation and into usable software systems
 - I use agentic engineering workflows with tools like Codex to accelerate implementation, but I keep ownership of design, review, testing, and integration
 - I focus on practical delivery: backend APIs, deployment, data flow, and product usefulness
-
-## Selected projects
-
-- [Credit Card Fraud Detection API](https://github.com/BirukZenebe1/ml-model-deployment)
-- [Real-Time Ride Events Pipeline](https://github.com/BirukZenebe1/real_time_pipeline)
-- [Rascart](https://rascart.com)
-- [MEDChat AI](https://github.com/BirukZenebe1/Fine-tunned-Llama-V2)
-
+- 
 ## Current stack
 
 - Python, SQL, FastAPI
