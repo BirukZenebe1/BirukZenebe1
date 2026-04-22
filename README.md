@@ -1,6 +1,6 @@
 # Hi, I'm Biruk Zenebe 👋
 
-Generative AI and Machine Learning Apperentice passionate about AI, scalable data systems, distributed processing, and building reliable data pipelines for real-world applications.
+Generative AI and Machine Learning Engineer passionate about AI, scalable data systems, distributed processing, and building reliable data pipelines for real-world applications.
 
 ##  Tools & Technologies
 - Python, PyTorch,Pandas, Sci-kit and TensorFlow
