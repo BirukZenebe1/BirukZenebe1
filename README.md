@@ -14,7 +14,7 @@ AI/ML engineer building production-ready systems across ML APIs, streaming data 
 - I like taking models beyond experimentation and into usable software systems
 - I use agentic engineering workflows with tools like Codex to accelerate implementation, but I keep ownership of design, review, testing, and integration
 - I focus on practical delivery: backend APIs, deployment, data flow, and product usefulness
-- 
+
 ## Current stack
 
 - Python, SQL, FastAPI
