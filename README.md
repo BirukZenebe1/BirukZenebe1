@@ -3,7 +3,7 @@
 AI/ML engineer building production-ready systems across ML APIs, streaming data pipelines, applied GenAI, and AI-enabled product experiences.
 
 ## What I work on
-
+  
 - Machine learning APIs with FastAPI, XGBoost, Docker, and cloud deployment
 - Streaming and analytics pipelines with PostgreSQL, Kafka, Spark, and Parquet
 - Applied GenAI projects using fine-tuned LLMs, RAG-style workflows, and LangChain
