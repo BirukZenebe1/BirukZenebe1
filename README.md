@@ -25,7 +25,7 @@ Aspiring AI/ML engineer building production-ready systems across ML APIs, stream
 
 ## Current focus
 
-- ML engineering internships
+- ML and AI engineering internships
 - Deployment-ready ML systems
 - Streaming data platforms
 - Applied GenAI workflows
