@@ -1,6 +1,6 @@
 # Hi, I'm Biruk Zenebe
 
-Aspiring AI/ML engineer building production-ready systems across ML APIs, streaming data pipelines, applied GenAI, and AI-enabled product experiences.
+AI/ML engineer building production-ready systems across ML APIs, streaming data pipelines, applied GenAI, and AI-enabled product experiences.
 
 ## What I work on
 
